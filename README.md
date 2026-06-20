@@ -1,7 +1,7 @@
 # Samsung Supply Chain & Logistics Analytics Dashboard
 <img width="1420" height="795" alt="Screenshot 2026-06-21 012355" src="https://github.com/user-attachments/assets/210944d0-170b-4a51-b266-f2398f50f693" />
 <img width="1342" height="738" alt="Screenshot 2026-06-21 012435" src="https://github.com/user-attachments/assets/f2106df7-bb71-472f-a52e-1d7db023c971" />
-<img width="1345" height="751" alt="Screenshot 2026-06-21 012720" src="https://github.com/user-attachments/assets/4a2ad764-d93c-4f62-ae3e-5a2bc2126c68" />
+<img width="1432" height="800" alt="Screenshot 2026-06-21 022103" src="https://github.com/user-attachments/assets/ad94fb13-03da-4d71-9d60-44da7e4e6ee1" />
 <img width="1345" height="747" alt="Screenshot 2026-06-21 012517" src="https://github.com/user-attachments/assets/9f46ca6c-ce14-42d0-b730-404cdfdbfbee" />
 <img width="1342" height="746" alt="Screenshot 2026-06-21 012532" src="https://github.com/user-attachments/assets/78256def-8e44-4194-97b0-9157005b876d" />
 <img width="1340" height="747" alt="Screenshot 2026-06-21 012550" src="https://github.com/user-attachments/assets/ace95df8-6324-4abb-82e8-c22f321a1ad6" />
